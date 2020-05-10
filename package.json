@@ -1,0 +1,30 @@
+{
+  "name": "new-normalize",
+  "version": "0.0.1",
+  "description": "A modern alternative to normalize.css",
+  "license": "MIT",
+  "main": "new-normalize.css",
+  "style": "new-normalize.css",
+  "files": [
+    "LICENSE.md",
+    "new-normalize.css"
+  ],
+  "keywords": [
+		"normalize",
+		"css",
+		"reset",
+		"browser",
+		"style"
+	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ismail-elkorchi/new-normalize.git"
+  },
+  "author": {
+		"name": "Ismail El Korchi",
+		"email": "ismail.elkorchi@gmail.com",
+		"url": "https://ismailelkorchi.com"
+	},
+  "bugs": "https://github.com/Ismail-elkorchi/new-normalize/issues",
+  "homepage": "https://github.com/Ismail-elkorchi/new-normalize"
+}
