@@ -34,7 +34,7 @@ main {
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
- * `article` contexts in Chrome, Firefox, and Safari.
+ * `article` contexts in Chrome, and Safari.
  */
 
 h1 {
@@ -311,7 +311,7 @@ textarea {
    ========================================================================== */
 
 /*
- * Add the correct display in Edge, IE 10+, and Firefox.
+ * Add the correct display in Edge, and IE 10+.
  */
 
 details {
