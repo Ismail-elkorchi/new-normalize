@@ -2,4 +2,4 @@
 
 ### 0.0.0 (May 10, 2020)
 
-* Initial release.
+* Remove the styles that were added to Firefox's default stylesheet: [#1](https://github.com/Ismail-elkorchi/new-normalize/pull/1),[#2](https://github.com/Ismail-elkorchi/new-normalize/pull/2).
