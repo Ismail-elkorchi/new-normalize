@@ -34,7 +34,7 @@ main {
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
- * `article` contexts in Chrome, and Safari.
+ * `article` contexts in Safari.
  */
 
 h1 {
@@ -75,14 +75,12 @@ a {
 }
 
 /**
- * 1. Remove the bottom border in Chrome 57-
- * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ * 1. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
 
 abbr[title] {
-  border-bottom: none; /* 1 */
-  text-decoration: underline; /* 2 */
-  text-decoration: underline dotted; /* 2 */
+  text-decoration: underline; /* 1 */
+  text-decoration: underline dotted; /* 1 */
 }
 
 /**
