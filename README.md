@@ -34,7 +34,7 @@ $ npm install new-normalize
 ### JavaScript Usage
 
 ```javascript
-import 'import new-normalize.css';
+import 'new-normalize.css';
 ```
 
 ### Webpack Usage
